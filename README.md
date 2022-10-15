@@ -9,12 +9,12 @@
 
 About Me:
 
-My goal is to move from aspiring developer to professional with a company where I can learn, grow and showcase my skills. Now I feel at a point where I can construct multi-page websites with my HTML, CSS & JavaScript skills.
-
 - 👨‍💻 I'm learning how to code
 - 🤔 My goal is to learn JavaScript and do whatever it takes to land my first web developer job. 
 - 📫 How to reach me: tkw.westphal@gmail.com
 - ⚡ Fun fact: I have a passion for music & film. I also enjoy playing video games.
+
+My goal is to move from being an aspiring developer to being a professional with a company where I can learn, grow, and showcase my skills. Now I feel at a point where I can construct multi-page websites with my HTML, CSS, and JavaScript skills.
 
 #### Technologies
 
