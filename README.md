@@ -10,7 +10,6 @@
 About Me:
 
 - 👨‍💻 I'm learning how to code
-- 🤔 My goal is to learn JavaScript and do whatever it takes to land my first web developer job. 
 - 📫 How to reach me: tkw.westphal@gmail.com
 - ⚡ Fun fact: I have a passion for music & film. I also enjoy playing video games.
 
