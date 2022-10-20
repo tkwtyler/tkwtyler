@@ -17,8 +17,7 @@ My goal is to move from being an aspiring developer to being a professional with
 
 #### Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)[![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-61DBFB?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=61DBFB)
 <hr>
 
 
