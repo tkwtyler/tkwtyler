@@ -9,7 +9,7 @@
 
 About Me:
 
-- 👨‍💻 I'm learning how to code
+- 👨‍💻 Full-time Learner
 - 📫 How to reach me: tkw.westphal@gmail.com
 - ⚡ Fun fact: I have a passion for music & film. I also enjoy playing video games.
 
