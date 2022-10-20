@@ -9,7 +9,7 @@
 
 About Me:
 
-- 👨‍💻 Full-time Learner
+- 👨‍💻 Full-time learner
 - 📫 How to reach me: tkw.westphal@gmail.com
 - ⚡ Fun fact: I have a passion for music & film. I also enjoy playing video games.
 
