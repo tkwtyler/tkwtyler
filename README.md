@@ -11,7 +11,7 @@ About Me:
 
 - 👨‍💻 Full-time learner
 - 📫 How to reach me: tkw.westphal@gmail.com
-- ⚡ Hobbies: I have a passion for tech. I also enjoy gaming, music, and movies!
+
 
 My goal is to move from being an aspiring developer to being a professional with a company where I can learn, grow, and showcase my skills. Now I feel at a point where I can construct multi-page websites with my HTML, CSS, and JavaScript skills.
 
