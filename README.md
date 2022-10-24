@@ -13,13 +13,7 @@ About Me:
 - 📫 How to reach me: tkw.westphal@gmail.com
 
 
-My goal is to move from being an aspiring developer to a professional with a company where I can learn, grow, and showcase my skills. 
 #### Technologies
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![Express Badge](https://img.shields.io/badge/-express-68A063?style=for-the-badge&labelColor=black&logo=express&logoColor=#68A063) ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)
 <hr>
-
-
-#### Q: What's your end goal?
-
-A: My goals are to learn full-stack development, collaborate on real-world projects, and inspire others by sharing my journey. 
