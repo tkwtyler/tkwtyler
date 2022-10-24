@@ -12,7 +12,6 @@ About Me:
 - 👨‍💻 Full-time learner
 - 📫 How to reach me: tkw.westphal@gmail.com
 
-<hr>
 
 #### Technologies
 
